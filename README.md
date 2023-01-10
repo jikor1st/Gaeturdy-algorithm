@@ -5,3 +5,7 @@
 ## 사용법
 
 각 이름에 맞는 폴더에 각자 형식에 맞게 정리합니다.
+
+## notion
+
+https://www.notion.so/Gaeturdy-c6a0d2012c6f48b89564059b9babfb4a
